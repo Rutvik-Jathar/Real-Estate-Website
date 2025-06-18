@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Rutvik-Jathar
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, JS, PHP
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👋 Hi there! I'm @Rutvik-Jathar
+
+- 🌱 I’m a **fresher** 
+- 🧠 I enjoy exploring different areas of tech to find what I truly love
+- 💞️ I’m open to collaborating on **beginner-friendly projects** in any domain
+- 📫 How to reach me: rutvikjathar75@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I believe trying new things is the best way to grow!
 
 <!---
 Rutvik-Jathar/Rutvik-Jathar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
